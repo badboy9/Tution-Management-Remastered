@@ -1,0 +1,7 @@
+Username: Bhushan
+password: bhushan
+
+Database Used: Microsoft Access
+Database Settings:
+	DNS:MyDb
+Note: Needs jdk version 1.7 for Access Database
